@@ -1,0 +1,12 @@
+name = "ZarrUniverse"
+uuid = "609889ea-8be0-4fbf-a208-28d5fa8c70b0"
+version = "0.1"
+
+[deps]
+ChunkCodecLibZstd = "55437552-ac27-4d47-9aa3-63184e8fd398"
+Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
+
+[compat]
+ChunkCodecLibZstd = "0.1"
+Zarr = "0.9"
+julia = "1.10"
